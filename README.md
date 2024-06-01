@@ -28,6 +28,9 @@ This repo is our project "Laptop Price Prediction" in the course "Machine Learni
 <a href="https://xgboost.readthedocs.io/en/stable/">
   <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height=40 hspace=10/>
 </a>
+<a href="https://joblib.readthedocs.io/en/stable/">
+  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" height=40 hspace=10/>
+</a>
 </div>
 
 ## Usage
